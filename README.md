@@ -5,6 +5,7 @@ Developed an interactive Power BI dashboard to help Madhav Store track and analy
 
 ## Dataset Used
 - <a href="https://github.com/Pinki5342/Power_BI_Dashboard_Project/blob/main/Details.csv">Dataset</a>
+- <a href="https://github.com/Pinki5342/Power_BI_Dashboard_Project/blob/main/Orders.csv">Dataset</a>
 
 ## Key Insights & Impact:
 Enhanced sales tracking by visualizing revenue, orders, and regional performance.
